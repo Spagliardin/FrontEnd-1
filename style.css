@@ -1,0 +1,31 @@
+
+.head {background-color: #E6E6E6;
+        opacity: 1;}
+.logo { background-color:#E6E6E6;
+        opacity: 1;
+        text-align: center;}
+.h1 { 
+    color: #005677;
+    background-color: #C4C4C4;
+    text-align: center;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    }
+h3 {color: #005677;
+    background-color: #C4C4C4;
+    text-transform: uppercase;
+}
+
+.a {font-style: italic;
+    font-weight: bold;
+    }
+.b {font-weight: bold;
+}
+.footer {
+    color: #FFFFFF;
+    font-weight: bold;
+    background-color: #005677;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 8px;
+}
